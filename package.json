@@ -1,0 +1,11 @@
+{
+  "name": "paperback-vortexscans-0.8",
+  "version": "1.0.0",
+  "description": "Extension Paperback pour VortexScans",
+  "scripts": {
+    "build": "tsc --target ES2019 --module commonjs --outDir dist src/paperback-vortexscans-0.8.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
