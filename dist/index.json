@@ -1,0 +1,10 @@
+[
+  {
+    "name": "VortexScans",
+    "id": "vortexscans",
+    "version": "1.0.0",
+    "author": "generated-by-assistant",
+    "description": "Extension Paperback 0.8 pour vortexscans.org",
+    "jsFile": "paperback-vortexscans-0.8.js"
+  }
+]
